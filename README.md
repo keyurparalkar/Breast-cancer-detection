@@ -1,7 +1,7 @@
 ## Breast Cancer ( 1 = Malignant(M) vs 0 = Benign(B) ) 
 ### Breast cancer dataset 
 This dataset consists of 10 features whose values are obtained in terms of Mean, Standard error and worst case.
-First two columns gives us the information about ID and The output itself (Maliganat or Benign).
+First two columns gives us the information about ID and The output itself (Malignant or Benign).
 
 **Instruction for data-preprocessing**
 - First load the data.csv file to dataframe.
